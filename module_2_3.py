@@ -6,4 +6,3 @@ while counter != len(my_list):
     elif my_list[counter] < 0:
         break
     counter += 1
-#print("Вышел из цикла")
